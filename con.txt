@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is the first line of master branch
+=======
+this is line from Dev branch
+this is the second line from Dev branch
+>>>>>>> Dev
